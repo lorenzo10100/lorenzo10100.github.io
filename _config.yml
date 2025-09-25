@@ -22,7 +22,6 @@ title: Statistics 25/26
 description: Site created to upload homework for Statistics course in the Department of Cybersecurity academic year 25/26. Student ID 1912241
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://lorenzo10100.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-rss: false
 
 # Build settings
 theme: minima
